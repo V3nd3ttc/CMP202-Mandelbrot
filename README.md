@@ -1,2 +1,2 @@
 # CMP202-Mandelbrot
-CMP202-Data Structures and Algorithms 2 Assingment
+CMP202-Data Structures and Algorithms 2 Assignment
